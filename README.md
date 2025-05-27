@@ -1,4 +1,4 @@
-# Sistema-de-Detec-o-de-Tumores-Cerebrais-com-IA-Explic-vel-XAI-
+
 
 # 🧠 Detecção de Tumores Cerebrais com IA Explicável (XAI) e Assistente Gemini
 
